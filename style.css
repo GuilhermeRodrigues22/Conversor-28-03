@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(70, 205, 236, 0.861);
+}
+
+.botao {
+    text-align: center;
+    font-size: 18px;
+    width: 100%;
+    padding: 18px;
+    background-color: rgb(179, 241, 216);
+    color: black;
+    cursor: pointer;
+    border: none;
+  }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#resultado{
+    color: #66BF2F;
+    font-size:25px;
+    align-items: center;
+    margin-top: 18px;
+ }
